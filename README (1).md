@@ -4,9 +4,9 @@
 
 **A beginner-friendly Python project demonstrating LLM conversations and local, persistent JSON memory.**
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-logo=python&logoColor=white)](https://www.python.org/)
 [![LLM API](https://img.shields.io/badge/LLM-OpenRouter-6D5DFB)](https://openrouter.ai/)
-[![Memory](https://img.shields.io/badge/Memory-JSON-333333?logo=json)](https://www.json.org/)
+[![Memory](https://img.shields.io/badge/Memory-333333?logo=json)](https://www.json.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -18,6 +18,19 @@
 This project is a command-line AI assistant built with Python. It sends user messages to a large language model (LLM) through OpenRouter and saves the conversation in a local `memory.json` file. When the program starts again, it loads that history and can use it as context for later questions.
 
 It is a learning prototype—not a fully autonomous agent and not currently connected to a physical robot.
+
+# Project visuals
+
+Add real project visuals to this folder and link them from the root README.
+
+Suggested files:
+- `terminal-demo.png` — terminal showing a successful conversation (use fake, non-sensitive example text).
+- `memory-file.png` — sanitized view of a sample `memory.json`.
+- `architecture.png` — architecture diagram exported from your diagram tool.
+- `demo.gif` — short screen recording converted to GIF.
+
+Before publishing, hide API keys, account IDs, personal conversations, and other sensitive data. Do not present mockups as actual screenshots.
+
 
 ## ✨ Features
 
